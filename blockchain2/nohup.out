@@ -1,0 +1,6 @@
+
+> naivechain@1.0.0 start /home/projects/sarebide/blockchain
+> node main.js
+
+listening websocket p2p port on: 6001
+Listening http on port: 3001
