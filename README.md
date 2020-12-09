@@ -65,3 +65,9 @@ Cron is needed to generate certifieds.
 ```
 * * * * * /usr/bin/php /home/projects/sarebide/generate.php >>/dev/null 2>> /home/projects/sarebide/generate.log
 ```
+
+## VIDEO ##
+
+Video explaining how to use the blockchain:
+
+https://github.com/ZiTAL/sarebide/blob/master/safrie_albacora_pevasa.mp4?raw=true
